@@ -5,3 +5,4 @@ Before we start, please download data and clone repository:
 
  - https://drive.google.com/drive/u/1/folders/1BeJwc_aPAD-WrV2_BfTiNy0zOp-vtbUT
  - https://github.com/ealee/ML1010_InClass
+ - https://docs.google.com/presentation/d/1BeMePWJYFc9TfSd756OLDZ5RCGpqD_H0XqpIphVOZLQ/edit?usp=sharing
